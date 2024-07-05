@@ -1,1 +1,1 @@
-This is the Minor Project done for Corizo 
+This is the Projects done for Corizo during my internship 
